@@ -1,1 +1,1 @@
-This project consists of just a main index page where the you can find a few links of recipes. Clicking in one of the links will lead you to the specific page of the recipe. There you will be finding all the informations and instructions you need to know to be able to make this recipe.
+This project consists of just a main index page where you can find a few links of food recipes. Clicking in one of the links will lead you to the specific page of the recipe. There you will be finding all the informations and instructions you need to know to be able to make this recipe.
